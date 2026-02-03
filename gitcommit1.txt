@@ -1,0 +1,1 @@
+About Test conflict in gitcommit1.txt

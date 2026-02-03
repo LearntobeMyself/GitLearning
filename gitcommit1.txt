@@ -1,1 +1,1 @@
-About test this conflict in gitcommit1.txt
+About test a conflict in gitcommit1.txt
